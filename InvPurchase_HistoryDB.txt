@@ -1,0 +1,2 @@
+Leobog Hi 75,12,120.0,130.0,Keyboard,paid
+Lenovo Legion 5,10,3500.0,4000.0,Laptop,paid

@@ -1,0 +1,7 @@
+StockName, Quantity, Price, Category
+Logitech G304,20,100.0, mouse
+Ajazz Ak820,8,180.0, keyboard
+Kingston SSD (512GB),17,200.0, hard disk
+Repair,999999999,100.0, Repair
+Leobog Hi 75,12,200.0,Keyboard
+Lenovo Legion 5,10,4000.0,Laptop

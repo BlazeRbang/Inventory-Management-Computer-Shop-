@@ -1,0 +1,4 @@
+username, IC/passport number, name, phone, city of domicile, date of registration
+Sylvester,971245120983,Sylvester Ng Jun Hong,0108476312,Kota Kinabalu,2024-08-16
+Vun,901231,Vun Jin Quan,0128745643,Kuala Lumpur,2024-08-16
+Chris,060830130846,Tek Jun Hong,0164856973,Kuantan,2024-08-16

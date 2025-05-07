@@ -1,0 +1,9 @@
+Username,Password,Role,Approval,Usage
+Klccc,987,super_user,True,9
+Chris,123,customer,True,1
+Sylvester,123,customer,True,3
+Honkit,123,admin,True,1
+Yik yang,123,staff,True,2
+Vun,123,customer,True,2
+Timothy,234,customer,False,0
+Chee kin,345,customer,Disabled,0

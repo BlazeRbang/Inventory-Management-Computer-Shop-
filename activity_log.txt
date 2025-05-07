@@ -1,0 +1,62 @@
+2024-08-16 18:11:21 - Sylvester (customer): Created Account: ['Sylvester', '123', 'customer', 'False', 0]
+2024-08-16 18:11:35 - Honkit (admin): Created Account: ['Honkit', '123', 'admin', 'False', 0]
+2024-08-16 18:12:22 - Default (super_user): Logged in
+2024-08-16 18:12:45 - Default (super_user): Added new user: ['Chris', '123', 'customer', 'True', 0]
+2024-08-16 18:12:53 - Default (super_user): Approved User: ['Sylvester', '123', 'customer', 'True', 0]
+2024-08-16 18:12:59 - Default (super_user): Approved User: ['Honkit', '123', 'admin', 'True', 0]
+2024-08-16 18:13:16 - Default (super_user): Disabled User: ['Honkit', '123', 'admin', 'Disabled', 0]
+2024-08-16 18:13:22 - Default (super_user): Approved User: ['Honkit', '123', 'admin', 'True', 0]
+2024-08-16 18:13:51 - Default (super_user): Logged out
+2024-08-16 18:14:26 - Sylvester (customer): Logged in
+2024-08-16 18:14:53 - Sylvester (customer): Placed Order: ['Sylvester', 'Logitech G304', 1, 100.0, ' mouse', 'Unpaid']
+2024-08-16 18:15:03 - Sylvester (customer): Modified Order: ['Sylvester', 'Logitech G304', 2, 100.0, ' mouse', 'Unpaid']
+2024-08-16 18:15:06 - Sylvester (customer): Cancelled Order: ['Sylvester', 'Logitech G304', 2, 100.0, ' mouse', 'Unpaid']
+2024-08-16 18:15:22 - Sylvester (customer): Placed Order: ['Sylvester', 'Ajazz Ak820', 2, 180.0, ' keyboard', 'Unpaid']
+2024-08-16 18:17:22 - Sylvester (customer): Logged in
+2024-08-16 18:18:05 - Sylvester (customer): Made Payment for 1 items
+2024-08-16 18:18:14 - Sylvester (customer): Placed Order: ['Sylvester', 'Kingston SSD (512GB)', 3, 200.0, ' hard disk', 'Unpaid']
+2024-08-16 18:18:20 - Sylvester (customer): Made Payment for 1 items
+2024-08-16 18:18:36 - Sylvester (customer): Logged out
+2024-08-16 18:18:41 - Honkit (admin): Logged in
+2024-08-16 18:19:01 - Honkit (admin): Logged out
+2024-08-16 18:19:06 - Default (super_user): Logged in
+2024-08-16 18:19:47 - Default (super_user): Logged out
+2024-08-16 19:46:26 - Default (super_user): Logged in
+2024-08-16 19:46:38 - Default (super_user): Modified Customer: ['Sylvester', '971245120983', 'Sylvester Ng Jun Hong', '0108476312', 'Kota Kinabalu', '2024-08-16']
+2024-08-16 19:46:41 - Default (super_user): Logged out
+2024-08-16 20:15:09 - Default (super_user): Logged in
+2024-08-16 20:15:11 - Default (super_user): Logged out
+2024-08-16 20:16:02 - Klccc (super_user): Logged in
+2024-08-16 20:16:06 - Klccc (super_user): Logged out
+2024-08-16 21:32:37 - Klccc (super_user): Logged in
+2024-08-16 21:32:47 - Klccc (super_user): Added new user: ['Yik yang', '123', 'staff', 'True', 0]
+2024-08-16 21:33:01 - Klccc (super_user): Added new user: ['Vun', '123', 'customer', 'True', 0]
+2024-08-16 21:33:10 - Klccc (super_user): Logged out
+2024-08-16 21:33:44 - Vun (customer): Logged in
+2024-08-16 21:33:50 - Vun (customer): Placed Order: ['Vun', 'Ajazz Ak820', 3, 180.0, ' keyboard', 'Unpaid']
+2024-08-16 21:33:54 - Vun (customer): Placed Order: ['Vun', 'Repair', 1, 100.0, ' Repair', 'Unpaid']
+2024-08-16 21:38:53 - Yik yang (staff): Logged in
+2024-08-16 21:39:22 - Yik yang (staff): Placed Order: ['Leobog Hi 75', 12, 120.0, 130.0, 'Keyboard', 'unpaid']
+2024-08-16 21:40:06 - Yik yang (staff): Placed Order: ['Lenovo Legion 5', 10, 3500.0, 4000.0, 'Laptop', 'unpaid']
+2024-08-16 21:41:49 - Yik yang (staff): Added Stock: ['Leobog Hi 75', 12, 200.0, 'Keyboard']
+2024-08-16 21:42:07 - Yik yang (staff): Added Stock: ['Lenovo Legion 5', 10, 4000.0, 'Laptop']
+2024-08-16 21:42:39 - Yik yang (staff): Logged out
+2024-08-16 21:43:55 - Yik yang (staff): Logged in
+2024-08-16 21:44:42 - Yik yang (staff): Placed Order: ['Asus Tuf F15', 20, 2500.0, 3000.0, 'Laptop', 'unpaid']
+2024-08-16 21:44:54 - Yik yang (staff): Logged out
+2024-08-16 21:44:58 - Vun (customer): Logged in
+2024-08-16 21:45:36 - Vun (customer): Logged out
+2024-08-16 21:46:36 - Chris (customer): Logged in
+2024-08-16 21:46:44 - Chris (customer): Placed Order: ['Chris', 'Lenovo Legion 5', 2, 4000.0, 'Laptop', 'Unpaid']
+2024-08-16 21:46:49 - Chris (customer): Placed Order: ['Chris', 'Repair', 1, 100.0, ' Repair', 'Unpaid']
+2024-08-16 21:46:54 - Chris (customer): Logged out
+2024-08-16 21:47:28 - Timothy (customer): Created Account: ['Timothy', '234', 'customer', 'False', 0]
+2024-08-16 21:47:44 - Klccc (super_user): Logged in
+2024-08-16 21:47:58 - Klccc (super_user): Added new user: ['Chee kin', '345', 'customer', 'True', 0]
+2024-08-16 21:48:03 - Klccc (super_user): Disabled User: ['Chee kin', '345', 'customer', 'Disabled', 0]
+2024-08-16 21:48:30 - Klccc (super_user): Logged out
+2024-08-16 21:53:41 - Sylvester (customer): Logged in
+2024-08-16 21:53:43 - Sylvester (customer): Logged out
+2024-08-16 22:22:08 - Klccc (super_user): Logged in
+2024-08-16 22:22:13 - Klccc (super_user): Logged out
+2025-05-07 19:56:42 - Klccc (super_user): Logged in

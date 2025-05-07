@@ -1,0 +1,5 @@
+Username, StockName, Quantity, Price, Category, Status
+Vun,Ajazz Ak820,3,180.0, keyboard,Unpaid
+Vun,Repair,1,100.0, Repair,Unpaid
+Chris,Lenovo Legion 5,2,4000.0,Laptop,Unpaid
+Chris,Repair,1,100.0, Repair,Unpaid
